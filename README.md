@@ -121,6 +121,8 @@ Comprehensive market analysis platform for data-driven investment insights and t
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnubhavSinghRajputh&theme=tokyonight)
 
+![github contribution grid snake animation](github-contribution-grid-snake.svg)
+
 </div>
 
 ---
