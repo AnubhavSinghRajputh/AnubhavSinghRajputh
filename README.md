@@ -144,7 +144,7 @@ Comprehensive market analysis platform for data-driven investment insights and t
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnubhavSinghRajputh-black?style=flat&logo=github)](https://github.com/AnubhavSinghRajputh)
-[![LinkedIn](https://in.linkedin.com/in/anubhav-singh-rajput-208a4a397)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anubhav_singh_rajput-0077B5?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/anubhav-singh-rajput-208a4a397)
 [![Instagram](https://img.shields.io/badge/Instagram-anubhav__singh__rajputh-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/anubhav_singh_rajputh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-green?style=flat)](https://portfolio.com)
 
