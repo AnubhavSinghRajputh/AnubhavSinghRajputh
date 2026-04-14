@@ -29,7 +29,7 @@ I turn ideas into functional, production-ready projects. From banking systems to
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus), ![Python](https://img.shields.io/badge/Python-3776AB?logo=python), C |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus), ![Python](https://img.shields.io/badge/Python-3776AB?logo=python), Dart , Flutter |
 | **Core Concepts** | ![OOP](https://img.shields.io/badge/OOP-Mastery-brightgreen), ![DSA](https://img.shields.io/badge/DSA-Advanced-brightgreen) |
 | **Backend/Systems** | ![File I/O](https://img.shields.io/badge/File%20I/O-Database-important), File Handling, CRUD Operations, Management Systems |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git), ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudio) VS Code, GitHub, Linux |
