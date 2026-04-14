@@ -16,7 +16,7 @@ I turn ideas into functional, production-ready projects. From banking systems to
 
 ## 🚀 Quick About Me
 
-- 🎓 **ECE Student** (1st Year)  
+- 🎓 **BTECH FIRST YEAR Student** (1st Year)  
 - 💻 **C++ Developer** — Specialized in OOP, Management Systems, Data Structures  
 - 🏦 **Finance Expert** — 3x NISM Certified R.A, FinTech Projects  
 - 📚 **Currently Learning** — Advanced DSA, System Design, Full-Stack Development  
