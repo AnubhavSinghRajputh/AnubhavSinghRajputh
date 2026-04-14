@@ -9,14 +9,14 @@
 
 **C++ Developer | Application Developer | Finance & Security Explorer**
 
-Btech 1st-year student passionate about building robust management systems, and diving deep into C++ application development Also a professional Finance expert
+Btech student passionate about building robust management systems, and diving deep into C++ application development Also a professional Finance expert
 I turn ideas into functional, production-ready projects. From banking systems to AI-powered solutions.
 
 ---
 
 ## 🚀 Quick About Me
 
-- 🎓 **BTECH FIRST YEAR Student** (1st Year)
+- 🎓 **BTECH Student** 
 -    **Application Developer** - Build Production Ready Applications   
 - 💻 **C++ Developer** — Specialized in OOP, Management Systems, Data Structures  
 - 🏦 **Finance Expert** — 3x NISM Certified R.A, FinTech Projects  
