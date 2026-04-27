@@ -5,7 +5,7 @@
  
 ---
 
-# 👋 Hi, I'm Anubhav Singh Rajput
+# Hi, I'm Anubhav Singh Rajput
 
 **C++ Developer | Application Developer | Finance & Security Explorer**
 
@@ -14,18 +14,18 @@ I turn ideas into functional, production-ready projects. From banking systems to
 
 ---
 
-## 🚀 Quick About Me
+## Quick About Me
 
-- 🎓 **BTECH Student** 
--    **Application Developer** - Build Production Ready Applications   
-- 💻 **C++ Developer** — Specialized in OOP, Management Systems, Data Structures  
-- 🏦 **Finance Expert** — 3x NISM Certified R.A, FinTech Projects  
-- 📚 **Currently Learning** — Advanced DSA, System Design, Full-Stack Development  
-- 🎯 **Goal** — Build industry-grade applications & contribute to open-source by 2027
+- **BTECH Student** 
+- **Application Developer** - Build Production Ready Applications   
+- **C++ Developer** — Specialized in OOP, Management Systems, Data Structures  
+- **Finance Expert** — 3x NISM Certified R.A, FinTech Projects  
+- **Currently Learning** — Advanced DSA, System Design, Full-Stack Development  
+- **Goal** — Build industry-grade applications & contribute to open-source by 2027
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |----------|--------------|
@@ -38,82 +38,82 @@ I turn ideas into functional, production-ready projects. From banking systems to
 
 ---
 
-## 💻 Featured Projects
+## Featured Projects
 
-### 🏦 Banking Management System
+### Banking Management System
 Complete financial management solution with account operations, transactions, and record management.
 
 ![Banking System Preview](https://link-to-your-banking-gif.gif)
 
-- 💳 Multi-account support (Current/Savings)
-- 💰 Deposit, Withdrawal & Fund Transfers
-- 📊 Real-time transaction history & logging
-- 🔍 Account search & balance inquiry
-- 💾 Persistent data storage with file I/O
+- Multi-account support (Current/Savings)
+- Deposit, Withdrawal & Fund Transfers
+- Real-time transaction history & logging
+- Account search & balance inquiry
+- Persistent data storage with file I/O
 
 [Source Code](https://github.com/AnubhavSinghRajputh/C---PROJECTS/blob/main/ProjectGridSecond/BankigSystem.cpp) | [Details](#)
 
 ---
 
-### 🩸 Blood Bank Management System
+### Blood Bank Management System
 Healthcare information system for managing blood donor databases and inventory.
 
 ![Blood Bank Preview](https://link-to-your-bloodbank-gif.gif)
 
-- 👥 Donor registration & tracking
-- 🩸 Blood group categorization & search
-- ✅ Eligibility verification system
-- 📋 Donor history & donation records
-- 🔎 Advanced search capabilities
+- Donor registration & tracking
+- Blood group categorization & search
+- Eligibility verification system
+- Donor history & donation records
+- Advanced search capabilities
 
 [Source Code](https://github.com/AnubhavSinghRajputh/C---PROJECTS/blob/main/ProjectGridSecond/BloodBankManagementSystem.cpp) | [Details](#)
 
 ---
 
-### 📚 Library Management System
+### Library Management System
 Comprehensive library operations platform for book catalog and member management.
 
 ![Library System Preview](https://link-to-your-library-gif.gif)
 
-- 📖 Book inventory management
-- 🔎 Advanced search (title, author, ISBN)
-- 👤 Member registration & tracking
-- 📤 Issue & return book functionality
-- 💾 Persistent database with file handling
+- Book inventory management
+- Advanced search (title, author, ISBN)
+- Member registration & tracking
+- Issue & return book functionality
+- Persistent database with file handling
 
 [Source Code](https://github.com/AnubhavSinghRajputh/C---PROJECTS/blob/main/ProjectGridSecond/LibraryMaageSystem.cpp) | [Details](#)
 
 ---
 
-### 📊 QuantCalc - Advanced Financial Calculator
+### QuantCalc - Advanced Financial Calculator
 Powerful quantitative analysis tool for financial computations and investment calculations.
 
 ![QuantCalc Preview](https://link-to-your-quantcalc-gif.gif)
 
-- 💹 Real-time financial metrics
-- 📈 Investment analysis & projections
-- 🔢 Advanced calculations
-- 📱 Intuitive UI
+- Real-time financial metrics
+- Investment analysis & projections
+- Advanced calculations
+- Intuitive UI
 
 [Live Demo](#) | [GitHub](#)
 
 ---
 
-### 📊 Market Analysis Tool
+### Market Analysis Tool
 Comprehensive market analysis platform for data-driven investment insights and trend analysis.
 
 ![Market Analysis Preview](https://github.com/AnubhavSinghRajputh/Market_Analysis-/blob/main/Screenshot%202026-02-02%20012920.png)
 
-- 📈 Real-time market data visualization
-- 💹 Trend analysis & forecasting
-- 🔍 In-depth market insights
-- 📱 Interactive dashboard
+- Real-time market data visualization
+- Trend analysis & forecasting
+- In-depth market insights
+- Interactive dashboard
 
 [Live Demo](#) | [GitHub](#)
 
 ---
 
-## 📊 GitHub Stats & Analytics
+## GitHub Stats & Analytics
 
 <div align="center">
 
@@ -129,7 +129,7 @@ Comprehensive market analysis platform for data-driven investment insights and t
 
 ---
 
-## 🎯 2026 Goals
+## 2026 Goals
 
 - ✅ Master Advanced DSA with C++  
 - ✅ Build production-ready applications  
@@ -140,7 +140,7 @@ Comprehensive market analysis platform for data-driven investment insights and t
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
