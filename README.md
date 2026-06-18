@@ -7,7 +7,7 @@
 
 # Hi, I'm Anubhav Singh Rajput
 
-**C++ Developer | Application Developer | Finance & Security Explorer**
+**DSA In C++ | Application Developer in Flutter Stack | Finance & Security Explorer | Web Dev in Mern Stack**
 
 Btech student passionate about building robust management systems, and diving deep into C++ application development Also a professional Finance expert
 I turn ideas into functional, production-ready projects. From banking systems to AI-powered solutions.
