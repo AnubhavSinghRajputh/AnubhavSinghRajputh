@@ -16,7 +16,7 @@ I turn ideas into functional, production-ready projects. From banking systems to
 
 ## Quick About Me
 
-- **BTECH Student** 
+- **BTECH Computer Science Engineering And Technology Student** 
 - **Application Developer** - Build Production Ready Applications   
 - **C++ Developer** — Specialized in OOP, Management Systems, Data Structures  
 - **Finance Expert** — 3x NISM Certified R.A, FinTech Projects  
